@@ -6,14 +6,6 @@ Este é um aplicativo web simples, construído com Python e Streamlit, para auto
 
 O objetivo deste projeto foi evoluir uma solução manual que eu utilizava em Excel com VBA e Power Query para uma ferramenta web pública, mais inteligente e acessível de qualquer lugar.
 
-## 🚀 Acesse o App
-
-Você pode testar a versão online do aplicativo aqui:
-
-**[COLE O LINK DO SEU APP NO STREAMLIT CLOUD AQUI]**
-
----
-
 ## ✨ Funcionalidades Principais
 
 * **Consulta em Lote:** Cole uma lista de CNPJs (um por linha) e deixe o app fazer o trabalho pesado.
